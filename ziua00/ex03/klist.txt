@@ -1,0 +1,5 @@
+Credentials cache: API:26287
+        Principal: vbadareu@42.FR
+
+  Issued                Expires               Principal
+Aug  7 15:10:23 2017  Aug  8 01:10:23 2017  krbtgt/42.FR@42.FR
